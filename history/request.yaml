@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSSM-MFD37-03-DOSTAD000-recovered_inst-dosta_abcdjm_ctdbp_instrument_recovered
-last_request: '2021-07-19T18:05:58.113289Z'
+last_request: '2021-08-01T01:08:40.676530Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-MFD37-03-DOSTAD000-recovered_inst-dosta_abcdjm_ctdbp_instrument_recovered/main/history/response.json
-status: success
+status: failed
